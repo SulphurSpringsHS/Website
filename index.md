@@ -1,6 +1,6 @@
 ## Welcome to Sulphur Springs High School Robotics
 
-<img src="logo.png" width="200" height="200">
+<a src="http://www.ssisd.net"><img src="logo.png" width="200" height="200"></a>
 
 ### Markdown
 
