@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pagessssss
 
-![Logo](logo.png)
+<img src="logo.png" width="200" height="200">
+
 
 You can use the [editor on GitHub](https://github.com/SulphurSpringsHS/Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
