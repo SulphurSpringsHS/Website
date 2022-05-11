@@ -37,5 +37,6 @@ Want to see some more of our projects?  Reach out via email and we can forward y
 
 ### Robotics and Automation Techology
  This is a link to the Skills USA page of all the competitions that we competed in, we unable to compet in them to do weather 
+ 
 [Robotics and Automation Techology](https://www.skillsusa.org/competitions/skillsusa-championships/contest-descriptions/)
 <!-- What is this?  Put more information that ties this in to what we're doing.  We're creating a repo of all of our work and resources -->
