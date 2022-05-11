@@ -30,7 +30,7 @@ Email SSHS Coach with any questions/concerns :: jwilder@ssisd.net
 Want to see some more of our projects?  Reach out via email and we can forward you a short descript email of what we're currently working on.
 
 ### Skillusa
- This is a link to the Skills USA page of all the competitions that we competed in, we unable to compet in them to do weather 
+ This is a link to the Skills USA page of all the competitions that we competed in, we unable to compete in them due to the weather. 
  
 [Robotics and Automation Techology](skillsusa-register.org/CRC/contentTECH/T/RoboticsAutomationTechnology.pdf)
 
