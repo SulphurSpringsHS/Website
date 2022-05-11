@@ -1,2 +1,2 @@
-# Website
-This is our Robotics Team's website.
+# Fabian's stuffs
+This is my page for my personal contributions invloving booth desgin and marketing ideas
