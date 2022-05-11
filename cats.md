@@ -1,6 +1,6 @@
 ---
 title: Cats
-layout: template
+layout: jekyll-theme-minimal
 filename: cats.md
 --- 
 
