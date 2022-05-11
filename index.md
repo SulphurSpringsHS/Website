@@ -37,4 +37,4 @@ Want to see some more of our projects?  Reach out via email and we can forward y
 [Urban Search and Rescue](https://www.skillsusa.org/wp-content/uploads/2021/02/Robotics-Urban-Search-and-Rescue.pdf)
 
 [Entrepreneurship](https://www.skillsusa-register.org/CRC/contentTECH/O/Entrepreneurship.pdf)
-<!-- What is this?  Put more information that ties this in to what we're doing.  We're creating a repo of all of our work and resources -->
+
