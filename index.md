@@ -13,12 +13,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
@@ -35,8 +29,12 @@ Email SSHS Coach with any questions/concerns :: jwilder@ssisd.net
 
 Want to see some more of our projects?  Reach out via email and we can forward you a short descript email of what we're currently working on.
 
-### Robotics and Automation Techology
+### Skillusa
  This is a link to the Skills USA page of all the competitions that we competed in, we unable to compet in them to do weather 
  
-[Robotics and Automation Techology](https://www.skillsusa.org/competitions/skillsusa-championships/contest-descriptions/)
+[Robotics and Automation Techology](skillsusa-register.org/CRC/contentTECH/T/RoboticsAutomationTechnology.pdf)
+
+[Urban Search and Rescue](https://www.skillsusa.org/wp-content/uploads/2021/02/Robotics-Urban-Search-and-Rescue.pdf)
+
+[Entrepreneurship](https://www.skillsusa-register.org/CRC/contentTECH/O/Entrepreneurship.pdf)
 <!-- What is this?  Put more information that ties this in to what we're doing.  We're creating a repo of all of our work and resources -->
